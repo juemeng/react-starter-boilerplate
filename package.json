@@ -1,0 +1,33 @@
+{
+  "name": "react-starter-boilerplate",
+  "version": "1.0.0",
+  "description": "react boilerplate",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/juemeng/react-starter-boilerplate.git"
+  },
+  "keywords": [
+    "jo",
+    "react",
+    "starter"
+  ],
+  "author": "Jo",
+  "license": "WTFPL",
+  "bugs": {
+    "url": "https://github.com/juemeng/react-starter-boilerplate/issues"
+  },
+  "homepage": "https://github.com/juemeng/react-starter-boilerplate#readme",
+  "dependencies": {
+    "react": "^15.1.0",
+    "react-dom": "^15.1.0",
+    "react-redux": "^4.4.5",
+    "redux": "^3.5.2"
+  },
+  "devDependencies": {
+    "webpack": "^1.13.1"
+  }
+}
